@@ -536,15 +536,27 @@
                 {
                  "animation":[
                         {
-                         "duration":250,
+                         "duration":100,
                          "tileid":145
                         }, 
                         {
-                         "duration":250,
+                         "duration":100,
                          "tileid":91
                         }, 
                         {
-                         "duration":250,
+                         "duration":100,
+                         "tileid":91
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":145
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":118
+                        }, 
+                        {
+                         "duration":100,
                          "tileid":118
                         }],
                  "id":70
@@ -552,15 +564,27 @@
                 {
                  "animation":[
                         {
-                         "duration":250,
+                         "duration":100,
                          "tileid":118
                         }, 
                         {
-                         "duration":250,
+                         "duration":100,
+                         "tileid":118
+                        }, 
+                        {
+                         "duration":100,
                          "tileid":145
                         }, 
                         {
-                         "duration":250,
+                         "duration":100,
+                         "tileid":145
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":91
+                        }, 
+                        {
+                         "duration":100,
                          "tileid":91
                         }],
                  "id":71
@@ -568,15 +592,27 @@
                 {
                  "animation":[
                         {
-                         "duration":250,
+                         "duration":100,
                          "tileid":91
                         }, 
                         {
-                         "duration":250,
+                         "duration":100,
+                         "tileid":91
+                        }, 
+                        {
+                         "duration":100,
                          "tileid":118
                         }, 
                         {
-                         "duration":250,
+                         "duration":100,
+                         "tileid":118
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":145
+                        }, 
+                        {
+                         "duration":100,
                          "tileid":145
                         }],
                  "id":144
